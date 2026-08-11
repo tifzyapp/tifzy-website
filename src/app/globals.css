@@ -1,0 +1,133 @@
+@import "tailwindcss";
+
+html{
+scroll-behavior:smooth;
+}
+
+body{
+margin:0;
+padding:0;
+background:#fffaf7;
+color:#111827;
+font-family:Arial,Helvetica,sans-serif;
+}
+
+*{
+box-sizing:border-box;
+}
+
+section{
+scroll-margin-top:90px;
+}
+
+button{
+transition:all .3s ease;
+cursor:pointer;
+}
+
+button:hover{
+transform:translateY(-3px);
+}
+
+img{
+user-select:none;
+}
+
+::-webkit-scrollbar{
+width:8px;
+}
+
+::-webkit-scrollbar-thumb{
+background:#f97316;
+border-radius:20px;
+}
+
+::-webkit-scrollbar-track{
+background:#fff7ed;
+}
+
+::selection{
+background:#fb923c;
+color:white;
+}
+
+
+/* ============================= */
+/* Premium Animated Background   */
+/* ============================= */
+
+@keyframes floatGlow {
+
+  0% {
+    transform: translate(0px,0px) scale(1);
+  }
+
+  50% {
+    transform: translate(40px,-30px) scale(1.15);
+  }
+
+  100% {
+    transform: translate(0px,0px) scale(1);
+  }
+
+}
+
+.bg-glow-purple{
+
+  position:absolute;
+
+  width:420px;
+
+  height:420px;
+
+  background:#7c3aed;
+
+  opacity:.22;
+
+  border-radius:9999px;
+
+  filter:blur(120px);
+
+  animation:floatGlow 12s ease-in-out infinite;
+
+}
+
+.bg-glow-pink{
+
+  position:absolute;
+
+  width:350px;
+
+  height:350px;
+
+  background:#ec4899;
+
+  opacity:.18;
+
+  border-radius:9999px;
+
+  filter:blur(110px);
+
+  animation:floatGlow 16s ease-in-out infinite reverse;
+
+}
+
+.bg-glow-blue{
+
+  position:absolute;
+
+  width:300px;
+
+  height:300px;
+
+  background:#2563eb;
+
+  opacity:.18;
+
+  border-radius:9999px;
+
+  filter:blur(100px);
+
+  animation:floatGlow 14s ease-in-out infinite;
+
+}
