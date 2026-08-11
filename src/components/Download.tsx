@@ -46,8 +46,9 @@ export default function Download() {
             <div className="flex flex-wrap gap-5 mt-10">
 
               <a
-                href="/downloads/tifzy.apk"
-                download="Tifzy.apk"
+                href="https://github.com/tifzyapp/tifzy-website/releases/download/v1.0.0/tifzy.apk"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="
     bg-gradient-to-r
     from-violet-500
