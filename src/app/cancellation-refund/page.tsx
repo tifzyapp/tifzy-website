@@ -129,8 +129,8 @@ export default function CancellationRefundPage() {
             </p>
 
             <div className="mt-4 rounded-2xl border border-violet-500/20 bg-white/5 backdrop-blur-md p-6">
-              <p>Email: support@tifzy.in</p>
-              <p>Phone: +91 XXXXXXXXXX</p>
+              <p>Email: tifzy99@gmail.com</p>
+              <p>Phone: +91 9356299245</p>
               <p>Location: Nagpur, Maharashtra, India</p>
             </div>
 

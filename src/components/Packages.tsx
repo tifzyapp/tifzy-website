@@ -217,7 +217,7 @@ export default function Packages() {
 
         </div>
 
-        {/* Trust Section */}
+        {/* Trust Section
 
         <div className="mt-24">
 
@@ -282,7 +282,7 @@ export default function Packages() {
 
           </div>
 
-        </div>
+        </div> */}
 
       </div>
 

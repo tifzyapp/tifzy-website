@@ -162,7 +162,7 @@ export default function TermsAndConditions() {
             <div className="mt-5 bg-white/5 border border-violet-500/20 rounded-2xl p-6">
 
               <p className="text-violet-300">
-                📧 support@tifzy.in
+                📧 tifzy99@gmail.com
               </p>
 
               <p className="text-violet-300 mt-3">

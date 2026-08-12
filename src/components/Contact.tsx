@@ -90,7 +90,7 @@ p-10
                   </h4>
 
                   <p className="text-gray-400 mt-2">
-                    support@tifzy.in
+                    tifzy99@gmail.com
                   </p>
 
                 </div>
@@ -110,7 +110,7 @@ p-10
                   </h4>
 
                   <p className="text-gray-400 mt-2">
-                    +91 XXXXXXXXXX
+                    +91 9356299245
                   </p>
 
                 </div>

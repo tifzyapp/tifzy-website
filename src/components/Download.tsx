@@ -158,7 +158,7 @@ p-6
               </h3>
 
               <p className="text-center text-violet-300 mt-2">
-                Taste Like Home ❤️
+                Taste of Mother ❤️
               </p>
 
               <div className="mt-8 space-y-4">
